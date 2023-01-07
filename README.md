@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--https://c.tenor.com/KDyTDDxug4cAAAAd/fredbear-dance.gif
 -->
-![There was a gif](https://media.discordapp.net/attachments/934787895607304263/936153042775068682/image0-2-2.gif)
+<!--![There was a gif](https://media.discordapp.net/attachments/934787895607304263/936153042775068682/image0-2-2.gif)-->
 <!--
 **TumenSan/TumenSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
